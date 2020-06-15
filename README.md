@@ -6,7 +6,7 @@ This is the official website in link with my [Youtube channel](https://www.youtu
 
 --> [Click me]() 
 
-<iframe style="background: #FFFFFF;" src="https://youcount.github.io/e/#!/Programming+Unlimited" height="400" width="1200" frameborder="0"></iframe>
+<iframe style="background: #FFFFFF;" src="https://youcount.github.io/e/#!/Programming+Unlimited" height="600" width="1000" frameborder="0"></iframe>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
