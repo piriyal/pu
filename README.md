@@ -7,9 +7,11 @@ This is the official website in link with my [Youtube channel](https://www.youtu
 --> [Click me]() 
 
 ### C Programs
+
 ### Python Programs
+
 ### C++ Programs
 
-#Dont forget to [subscribe](https://www.youtube.com/channel/UCRq1nP_Ox3k4f4SHCgSXcMA?sub_confirmation=1) ~!
+# Dont forget to [subscribe](https://www.youtube.com/channel/UCRq1nP_Ox3k4f4SHCgSXcMA?sub_confirmation=1) ~!
 
 
